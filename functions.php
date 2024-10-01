@@ -11,6 +11,8 @@
 /**
  * Register block styles.
  */
+ 
+ //This is the sample text I'm adding
 
 if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 	/**
